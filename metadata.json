@@ -1,0 +1,8 @@
+{
+  "name": "GradTrack - EGI",
+  "description": "منظومة إدارة مشاريع التخرج الأكاديمية - معهد الجزيرة العالي للهندسة والتكنولوجيا بالمقطم",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
